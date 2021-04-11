@@ -1,0 +1,6 @@
+rofi (1.6.1-1regolith1) bionic; urgency=medium
+
+  * Adapted package metadata from Ubuntu for 1.6.1 release 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 10 Apr 2021 20:45:02 -0700
+
